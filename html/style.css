@@ -1,0 +1,9 @@
+.show, .showback, .showfront{
+    visibility: hidden;
+    opacity: 0;
+}
+
+.show--open, .showback--open, .showfront--open{
+    visibility: visible;
+    opacity: 1;
+}
